@@ -2,7 +2,7 @@
 
 A working version so that I don't keep having to Google for it
 
-I pick this up every now and then. The problem is the examples on the web either miss things out or are grossly simplified so this is *definitive* verions
+I pick this up every now and then. The problem is the examples on the web either miss things out or are grossly simplified so this is a *definitive* version
 
 Some sources for the algorithm
 
